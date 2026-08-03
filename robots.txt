@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://Dhananjay-a2mtech.github.io/snippets-1rk2zf/sitemap.xml
